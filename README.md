@@ -1,0 +1,2 @@
+# CSQ413-SEMINAR
+CSE S7 Seminar (CSQ 413)
